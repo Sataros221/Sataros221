@@ -34,7 +34,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Sataros/Sataros/output/snake.svg" alt="Snake animation" />
-
-###

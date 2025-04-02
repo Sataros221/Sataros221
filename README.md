@@ -4,9 +4,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sataros&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sataros&layout=compact&card_width=300&langs_count=6&theme=synthwave&hide_border=true" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Sataros&theme=synthwave&hide_border=true&border_radius=5" height="150" alt="Contribution Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sataros221&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sataros221&layout=compact&card_width=300&langs_count=6&theme=synthwave&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Sataros221&theme=synthwave&hide_border=true&border_radius=5" height="150" alt="Contribution Streak" />
 </div>
 
 ###

@@ -1,6 +1,6 @@
-<h1 align="center">👋🏻 Hi! I'm Javier (@Sataros221)</h1>
+<h1 align="center">Hi! I'm Javier (@Sataros221)</h1>
 
-<h3 align="center">Software Engineering Student | Interested in Python development</h3>
+<h3 align="center">Software Engineering Student | Interested in Backend development</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sataros221&theme=rose_pine&hide_border=true&border_radius=5" height="150" alt="Contribution Streak" />
@@ -11,34 +11,51 @@
 
 <img align="right" height="150" src="https://i-download.imgflip.com/9wof9z.gif"  />
 
-<h3 align="center">🔧 Core Technologies</h3>
+
+<h3 align="center">Core Technologies</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
 </div>
 
-<h3 align="center">🌐 Connect with Me</h3>
+
+<h3 align="center">Connect with Me</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/javier-valdes-gonzalez-6905a4338/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:javier.2212004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Email" />
+  <a href="https://x.com/Sataros221" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://discordapp.com/users/sataros221" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="javier.2212004@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/sataros221/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+---
+
+<h3 align="center">A good song</h3>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/aoy6og2gnhniy09cma276816t">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=aoy6og2gnhniy09cma276816t&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
